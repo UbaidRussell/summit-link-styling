@@ -7,3 +7,9 @@ a:hover{
     color: blue;
     text-decoration: none;
 }
+.nav-link{
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: red;
+}
