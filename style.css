@@ -13,3 +13,13 @@ a:hover{
 .nav-link:hover{
     color: red;
 }
+.btn{
+    font-family: 'Raleway', sans-serif;
+    color: #6D67E4;
+    background-color: #D6E4E5;
+    display: inline-block;
+    padding: 30px;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+}
