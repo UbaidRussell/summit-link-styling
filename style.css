@@ -40,12 +40,12 @@ a:hover{
     text-align: center;
     border: 2px solid black;
     border-radius: 5px;
-    box-shadow: 10px 5px 5px orange;
+    box-shadow: 10px 5px 5px #678983;
 }
 .activity:hover{
-    border:2px solid orange;
-    color: orange;
-    box-shadow:10px 5px 5px orange;
+    border:2px solid #678983;
+    color: #678983;
+    box-shadow:10px 5px 5px #678983;
 }
 .activity:active{
     margin-top: 10px;
