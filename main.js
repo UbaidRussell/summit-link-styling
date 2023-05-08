@@ -1,0 +1,1 @@
+document.querySelector("body > div.navigation > ul > a:nth-child(1)").innerHTML = 'The Lodge'
